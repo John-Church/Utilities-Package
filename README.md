@@ -21,4 +21,4 @@ The project could be hosted locally by navigating to the root folder then using 
 then 
 `flask run.`
 
-The project no longer functions as intended since the referenced APIs are no longer in use.
+The project no longer functions as intended since the referenced APIs are no longer in use. The project could easily be reused for another set of APIs by editing the dictionary of APIs in ENVIRONMENTS.py.
